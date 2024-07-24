@@ -11,18 +11,18 @@ Front-end:
 HTML, CSS
 
 Backend: 
-JavaScript
+JavaScript, Python
 
 Languages I use:
 JavaScript, Python, Bash 
 
 Tools & technologies I have worked with:
-Bootstrap, Linux, Windows, Git, Github
+React, Next.js, Tailwind CSS, Bootstrap, JQuery, Linux, Windows, Git, Github, Figma, Dockers
 
 - 🔭 I’m currently working on:
   + Personal Portfolio
-- 🌱 I’m currently Re-learning:
-  + HTML/CSS
+- 🌱 I’m currently Re-Learning:
+  + Python
   + Javascript
 - 🤔 I’m looking for help with:
   + my journey to Software Engineering
@@ -35,6 +35,6 @@ Bootstrap, Linux, Windows, Git, Github
 - 😄 Pronouns:
   + I am a Man as Allah created me, Al-Hamdolillaah
 - ⚡ Fun fact:
-  + I love Javascript but it's kicking my butt lolol
+  + I'm fascinated with Javascript
 
 
